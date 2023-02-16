@@ -1,0 +1,36 @@
+
+.jumbotron{
+           background: transparent;
+                
+           
+			 
+       }
+.color-white{
+           color: white;   
+       }
+	   
+.container{
+	         color:white;
+			 padding-top:10%;
+            margin-top:17%;
+            
+	      
+	   }
+	   
+     html { 
+          background: url("images/care3.png") no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          }
+      
+
+body{
+    background: none;
+}
+.land_text{
+        padding-top:15%;
+        
+     
+       }

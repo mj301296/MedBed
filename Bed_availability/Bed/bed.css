@@ -1,0 +1,47 @@
+  #map {
+        height: 40%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+
+    body{
+            background-color: #D6F1FF;
+            background-image: url("bed2.png") no-repeat center center fixed;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+        } 
+    
+        .cTable{
+          background-color: aliceblue;  
+          width:auto;
+          padding-left:30px; 
+          padding-top: 20px;
+          font-weight: bold;
+          margin-top: 20px;
+          margin-bottom: 20px;
+          padding: 50px;
+          border-radius: 10px;
+          box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+          color: black;
+          height: auto;
+            
+        
+       }
+    
+    .mt-3{
+        padding: 50px 30px 10px;;
+       }
+    .wcolor{
+        color: dimgrey;
+    }
+
+img{
+    border-radius: 50%;
+}
