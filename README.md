@@ -26,6 +26,6 @@ from a particular location
 ```
  Extract data from file onto the mySQL server
 ```
- To access the landing page: https://localhost:8080/MEDBED/ 
+ To access the landing page: 
 ```
-
+https://localhost:8080/MEDBED/ 
